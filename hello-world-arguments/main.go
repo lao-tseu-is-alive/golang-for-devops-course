@@ -13,5 +13,5 @@ func main() {
 		os.Exit(1)
 	}
 
-	fmt.Printf("hello world!\nos.Args: %v\nArguments: %v\n", args, args[1:])
+	fmt.Printf("Hello world!\nos.Args: %v\nArguments: %v\n", args, args[1:])
 }
